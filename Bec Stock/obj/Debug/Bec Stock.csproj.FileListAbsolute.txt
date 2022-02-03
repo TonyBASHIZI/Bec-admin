@@ -1,0 +1,15 @@
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\bin\Debug\Bec Stock.exe.config
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\bin\Debug\Bec Stock.exe
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\bin\Debug\Bec Stock.pdb
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec Stock.csprojResolveAssemblyReference.cache
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec_Stock.Forms.frmMain.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec_Stock.Forms.pages.frmDash.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec_Stock.Properties.Resources.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec Stock.csproj.GenerateResource.Cache
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec Stock.exe.licenses
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec Stock.exe
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec Stock.pdb
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec_Stock.Forms.pages.frmHome.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec_Stock.Forms.pages.frmInStcok.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec_Stock.Forms.pages.frmStock.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Bec Stock\Bec Stock\obj\Debug\Bec_Stock.Forms.pages.frmCredit.resources
